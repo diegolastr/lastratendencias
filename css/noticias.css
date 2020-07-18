@@ -1,0 +1,10 @@
+#noticias h2{
+    text-align: center;
+    font-size: 50px;
+}
+
+#noticias p{
+    margin-top: 25px;
+    margin-block-end: 250px;
+
+}
